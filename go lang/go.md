@@ -12,17 +12,17 @@ Go Program is statically linked this means that when you compile a go program ev
 
 Go is a Platform independent language.
 
-![image]()
+![image](compile.png)
 
 As you can see this is how the compiler work that makes it first.
 
 Let's write our first program in Go lang that is very simple
 
-![image of code 1]()
+![image of code 1](code1.png)
 
 This is our first program as you can see from the image I have explained. Let's see another example of the GO program
 
-![image of code 2]()
+![image of code 2](code2.png)
 
 So this is very basic as we see it contains all the other aspects that a programming language should have. In this, I Will only introduce you to Go Lang 
 
