@@ -10,4 +10,4 @@ I will be mostly following this roadmap for my learing you if you also want to l
 ### [DevOps](Devops.md)
 
 ## Programming Language
-### [Go Lang](go lang/go.md)
+### [Go Lang](golang/go.md)
