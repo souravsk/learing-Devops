@@ -13,7 +13,7 @@ I will be mostly following this roadmap for my learing you if you also want to l
 ### [Go Lang](golang/go.md)
 
 ## Linux
-### [What is Linux](linux/what_is_linux.md)
-### [Basic Commands of Linux]
-### [Linux Intermediate Commands]
-### [Linux File System]
+#### [What is Linux](linux/what_is_linux.md)
+#### [Basic Commands of Linux]()
+#### [Linux Intermediate Commands]()
+#### [Linux File System]()
