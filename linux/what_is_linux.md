@@ -19,7 +19,7 @@ Linux is been with us forever and it will be forever with us.
 
 You must be thinking what is this kernel now the kernel is a program at the heart of the Linux operating system that takes care of fundamental stuff, like letting hardware communicate with software. it kernel is the middle man between hardware and system software.
 
-![Kernal.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654286163879/itfqpzjuF.png align="left")
+ - [kernal](linux/kernal.png)
 
 There are many Linux flavors Operating systems that you can install on your PC or laptop and you start using Linux from day one. The one I’m using is Ubuntu and it is beautiful if you have an old laptop and you have installed windows and it keeps crashing then I will suggest you install any Linux flavor you like. I did the same thing to my laptop it is 12 years old and I still use it as my main and only laptop and writing this blog. 
 
@@ -49,13 +49,9 @@ In enterprises, both in-house servers and cloud servers are running Linux. At th
 
 DevOps, Cloud, and Linux all three go hand in hand. As they all are focused on two major aspects -
 
-- **Customization:- **As you have more freedom and control over Operating system functionality and can tune it accordingly it becomes the preferred choice for DevOps and to all Cloud providers.
+- **Customization:- ** As you have more freedom and control over Operating system functionality and can tune it accordingly it becomes the preferred choice for DevOps and to all Cloud providers.
 
 - **Scalability:-** Linux Operating system can accommodate larger workloads without hampering the system performance beyond acceptable levels. As it successfully supports the concepts such as clustering, multiprocessing, and load balancing. The basic functionality remains the same (such as a terminal, tools, configuration, automation, and code compatibility) irrespective of the platforms where you are using it. It can process huge amounts of memory as well.
 
 - **Containerization:-**  Linux laid the foundation for the modern container platform rise. All the major concepts of the container ecosystem such as packaging and orchestration relies on Linux namespace and isolation mechanisms in order to operate.
 
-So that's all for today. In the next article, we will know more about Linux commands.
-
-
-Thanku for reading 
