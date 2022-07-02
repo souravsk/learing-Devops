@@ -19,7 +19,7 @@ Linux is been with us forever and it will be forever with us.
 
 You must be thinking what is this kernel now the kernel is a program at the heart of the Linux operating system that takes care of fundamental stuff, like letting hardware communicate with software. it kernel is the middle man between hardware and system software.
 
-![kernal](linux/kernal.png)
+![kernal](kernal.png)
 
 There are many Linux flavors Operating systems that you can install on your PC or laptop and you start using Linux from day one. The one I’m using is Ubuntu and it is beautiful if you have an old laptop and you have installed windows and it keeps crashing then I will suggest you install any Linux flavor you like. I did the same thing to my laptop it is 12 years old and I still use it as my main and only laptop and writing this blog. 
 
